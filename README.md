@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**DoJunggeun/dojunggeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am :
+- Majoring in Physics & PPE at SNU
+- Former President of SNU Student Union
+- in Military Service until 2021.09.02.
 
-Here are some ideas to get you started:
+Interested in :
+- Technology
+- Software
+- Startup
+- Social Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To contact with me :
+- [Mail](mailto:jg.do@snu.ac.kr)
+- [Velog](https://velog.io/@dojunggeun)
+- [Github](https://github.com/DoJunggeun)
+- [Linkedin](https://kr.linkedin.com/in/dojunggeun)
