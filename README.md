@@ -12,7 +12,7 @@ Interested in :
 - Social Progress
 
 To contact with me :
-- [Mail](mailto:jg.do@snu.ac.kr){:target="_blank"}
-- [Velog](https://velog.io/@dojunggeun){:target="_blank"}
-- [Github](https://github.com/DoJunggeun){:target="_blank"}
-- [Linkedin](https://kr.linkedin.com/in/dojunggeun){:target="_blank"}
+- <a href="mailto:jg.do@snu.ac.kr" target="_blank">Mail</a>
+- <a href="https://velog.io/@dojunggeun" target="_blank">Velog</a>
+- <a href="https://github.com/DoJunggeun" target="_blank">Github</a>
+- <a href="https://kr.linkedin.com/in/dojunggeun" target="_blank">Linkedin</a>
